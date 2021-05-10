@@ -1,0 +1,5 @@
+C:\Users\tsilas\source\repos\LibraryExamplePF6\LibraryExamplePF6\obj\Debug\net5.0\LibraryExamplePF6.csprojAssemblyReference.cache
+C:\Users\tsilas\source\repos\LibraryExamplePF6\LibraryExamplePF6\obj\Debug\net5.0\LibraryExamplePF6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsilas\source\repos\LibraryExamplePF6\LibraryExamplePF6\obj\Debug\net5.0\LibraryExamplePF6.AssemblyInfoInputs.cache
+C:\Users\tsilas\source\repos\LibraryExamplePF6\LibraryExamplePF6\obj\Debug\net5.0\LibraryExamplePF6.AssemblyInfo.cs
+C:\Users\tsilas\source\repos\LibraryExamplePF6\LibraryExamplePF6\obj\Debug\net5.0\LibraryExamplePF6.csproj.CoreCompileInputs.cache
