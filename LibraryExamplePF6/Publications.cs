@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryExamplePF6
 {
-    public abstract class  Publications : IRentable
+    public abstract class  Publications 
     {
         public string author { get; set; }
         public string tittle { get; set; }
