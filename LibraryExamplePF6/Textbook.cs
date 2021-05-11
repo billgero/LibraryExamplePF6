@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace LibraryExamplePF6
 {
-    class Textbook : Publications, IRentable
+    class Textbook : Publications
     {
-        public string editor { get; set; }
-
+        public string Editor { get; set; }
     }
 }

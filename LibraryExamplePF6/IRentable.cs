@@ -8,10 +8,14 @@ namespace LibraryExamplePF6
 {
     interface IRentable
     {
-        public DateTime lastUpdate { get; set; }
-        public bool Available {get;set;}
+        public DateTime LastUpdate { get; set; }
+        public bool Available { get; set; }
+
         public void Rent(Member member);
         public void Return(Member member);
-
+        public bool IsAvailable()
+        {
+            return Available;
+        }
     }
 }

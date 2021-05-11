@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace LibraryExamplePF6
 {
-    public abstract class  Publications 
+    public abstract class  Publications : IRentable
     {
-        public string author { get; set; }
-        public string tittle { get; set; }
-        public string publisher { get; set; }
+        public string Author { get; set; }
+        public string Tittle { get; set; }
+        public string Publisher { get; set; }
         public static List<Publications> allPublications { get; set; }
 
         public static List<Publications> getPublications()

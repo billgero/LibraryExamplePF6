@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace LibraryExamplePF6
 {
-    class Journal : Publications, IRentable
+    class Journal : Publications
     {
-        public int issueNo { get; set; }
-        public DateTime publicationDate { get; set; }
+        public int IssueNo { get; set; }
+        public DateTime PublicationDate { get; set; }
 
     }
 }
